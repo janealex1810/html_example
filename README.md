@@ -1,2 +1,2 @@
 # html_example
-ДЗ Skypro
+ДЗ Skypro (пример простой веб-страницы)
